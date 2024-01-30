@@ -1,0 +1,11 @@
+.number-container {
+    border: solid;
+    border-color: black;
+    /* display: flex; */
+    background-color: yellow;
+    width: auto;
+}
+
+.number-container p {
+    display: inline;
+}
