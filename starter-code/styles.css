@@ -37,11 +37,11 @@ main {
     width: 100%;
 }
 
-.purple-btn:active {
+.purple-btn:hover {
     background-color: var(--color-light-purple);
 }
 
-.blue-btn:active {
+.blue-btn:hover {
     background-color: var(--color-light-blue);
 }
 
